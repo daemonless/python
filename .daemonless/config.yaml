@@ -1,0 +1,58 @@
+build:
+  variants:
+    - tag: 3-pkg-latest
+      pkg_name: python3
+      containerfile: Containerfile
+      args:
+        BASE_VERSION: "15-pkg-latest"
+        PYTHON_VERSION: "3"
+    - tag: 2-pkg-latest
+      containerfile: Containerfile
+      args:
+        BASE_VERSION: "15-pkg-latest"
+        PYTHON_VERSION: "2"
+    - tag: 27-pkg-latest
+      containerfile: Containerfile
+      args:
+        BASE_VERSION: "15-pkg-latest"
+        PYTHON_VERSION: "27"
+    - tag: 310-pkg-latest
+      containerfile: Containerfile
+      args:
+        BASE_VERSION: "15-pkg-latest"
+        PYTHON_VERSION: "310"
+    - tag: 311-pkg-latest
+      containerfile: Containerfile
+      args:
+        BASE_VERSION: "15-pkg-latest"
+        PYTHON_VERSION: "311"
+    - tag: 312-pkg-latest
+      containerfile: Containerfile
+      args:
+        BASE_VERSION: "15-pkg-latest"
+        PYTHON_VERSION: "312"
+    - tag: 313-pkg-latest
+      containerfile: Containerfile
+      args:
+        BASE_VERSION: "15-pkg-latest"
+        PYTHON_VERSION: "313"
+    - tag: 313t-pkg-latest
+      containerfile: Containerfile
+      args:
+        BASE_VERSION: "15-pkg-latest"
+        PYTHON_VERSION: "313t"
+    - tag: 314-pkg-latest
+      containerfile: Containerfile
+      args:
+        BASE_VERSION: "15-pkg-latest"
+        PYTHON_VERSION: "314"
+    - tag: 314t-pkg-latest
+      containerfile: Containerfile
+      args:
+        BASE_VERSION: "15-pkg-latest"
+        PYTHON_VERSION: "314t"
+    - tag: 315-pkg-latest
+      containerfile: Containerfile
+      args:
+        BASE_VERSION: '15-pkg-latest'
+        PYTHON_VERSION: '315'

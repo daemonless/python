@@ -1,0 +1,21 @@
+ARG BASE_VERSION=15
+FROM ghcr.io/daemonless/base-core:${BASE_VERSION}
+
+ARG PYTHON_VERSION
+ARG FREEBSD_ARCH=amd64
+
+LABEL org.opencontainers.image.title="Python" \
+      org.opencontainers.image.description="Python is an interpreted object-oriented programming language, and is often compared to Tcl, Perl or Scheme." \
+      org.opencontainers.image.source="https://github.com/daemonless/python" \
+      org.opencontainers.image.url="https://www.python.org/" \
+      org.opencontainers.image.licenses="PSFL" \
+      org.opencontainers.image.vendor="daemonless" \
+      org.opencontainers.image.authors="daemonless" \
+      io.daemonless.category="Base" \
+      io.daemonless.arch="${FREEBSD_ARCH}"
+
+# Install dependencies
+RUN pkg update && \
+    pkg install -y python${PYTHON_VERSION} && \
+    pkg clean -ay && \
+    rm -rf /var/cache/pkg/* /var/db/pkg/repos/*

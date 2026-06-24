@@ -1,0 +1,19 @@
+name: python
+
+x-daemonless:
+  title: "Python"
+  icon: ":simple-python:"  # https://pictogrammers.com/library/mdi/ (material-) or https://simpleicons.org/ (simple-)
+  category: "Base"
+  description: "Python is an interpreted object-oriented programming language, and is often compared to Tcl, Perl or Scheme."
+  upstream_url: "https://www.python.org/"
+  web_url: "https://www.python.org/"
+  freshports_url: "https://www.freshports.org/lang/python311/"
+  user: "root"
+  mlock: false
+  community: "Discord:https://discord.gg/Kb9tkhecZT"
+  appjail: true
+  class: 'base'
+
+  docs: {}
+
+services: {}
