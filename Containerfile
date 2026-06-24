@@ -23,5 +23,7 @@ LABEL org.opencontainers.image.title="Python" \
 # Install dependencies
 RUN pkg update && \
     pkg install -y python${PYTHON_VERSION} && \
+    mkdir -p /app && \
+    pkg query %v python${PYTHON_VERSION} > /app/version && \
     pkg clean -ay && \
     rm -rf /var/cache/pkg/* /var/db/pkg/repos/*
