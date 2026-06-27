@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-26T22:03:24Z",
+  "generated": "2026-06-27T01:19:43Z",
   "image": "python",
   "tags": {
     "2-pkg-latest": {
       "app_version": "2_3",
       "arch": "amd64",
-      "generated": "2026-06-26T22:01:12Z",
+      "generated": "2026-06-27T01:18:31Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -187,7 +187,7 @@
           },
           {
             "name": "libffi",
-            "version": "3.5.2"
+            "version": "3.6.0"
           },
           {
             "name": "libxcb",
@@ -264,7 +264,7 @@
     "27-pkg-latest": {
       "app_version": "2.7.18_5",
       "arch": "amd64",
-      "generated": "2026-06-26T22:00:45Z",
+      "generated": "2026-06-27T01:18:14Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -446,7 +446,7 @@
           },
           {
             "name": "libffi",
-            "version": "3.5.2"
+            "version": "3.6.0"
           },
           {
             "name": "libxcb",
@@ -519,7 +519,7 @@
     "3-pkg-latest": {
       "app_version": "3_4",
       "arch": "amd64",
-      "generated": "2026-06-26T22:00:58Z",
+      "generated": "2026-06-27T01:16:41Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -661,7 +661,7 @@
           },
           {
             "name": "libffi",
-            "version": "3.5.2"
+            "version": "3.6.0"
           },
           {
             "name": "mpdecimal",
@@ -680,8 +680,8 @@
             "version": "3_4"
           },
           {
-            "name": "python311",
-            "version": "3.11.15_4"
+            "name": "python312",
+            "version": "3.12.13_3"
           },
           {
             "name": "readline",
@@ -718,7 +718,7 @@
     "310-pkg-latest": {
       "app_version": "3.10.20_4",
       "arch": "amd64",
-      "generated": "2026-06-26T22:00:54Z",
+      "generated": "2026-06-27T01:17:22Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -860,7 +860,7 @@
           },
           {
             "name": "libffi",
-            "version": "3.5.2"
+            "version": "3.6.0"
           },
           {
             "name": "mpdecimal",
@@ -913,7 +913,7 @@
     "311-pkg-latest": {
       "app_version": "3.11.15_4",
       "arch": "amd64",
-      "generated": "2026-06-26T22:00:21Z",
+      "generated": "2026-06-27T01:16:50Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -1055,7 +1055,7 @@
           },
           {
             "name": "libffi",
-            "version": "3.5.2"
+            "version": "3.6.0"
           },
           {
             "name": "mpdecimal",
@@ -1108,7 +1108,7 @@
     "312-pkg-latest": {
       "app_version": "3.12.13_3",
       "arch": "amd64",
-      "generated": "2026-06-26T22:01:33Z",
+      "generated": "2026-06-27T01:17:23Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -1250,7 +1250,7 @@
           },
           {
             "name": "libffi",
-            "version": "3.5.2"
+            "version": "3.6.0"
           },
           {
             "name": "mpdecimal",
@@ -1303,7 +1303,7 @@
     "313-pkg-latest": {
       "app_version": "3.13.14",
       "arch": "amd64",
-      "generated": "2026-06-26T22:02:14Z",
+      "generated": "2026-06-27T01:17:34Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -1445,7 +1445,7 @@
           },
           {
             "name": "libffi",
-            "version": "3.5.2"
+            "version": "3.6.0"
           },
           {
             "name": "mpdecimal",
@@ -1498,7 +1498,7 @@
     "313t-pkg-latest": {
       "app_version": "3.13.14",
       "arch": "amd64",
-      "generated": "2026-06-26T22:01:15Z",
+      "generated": "2026-06-27T01:17:56Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -1640,7 +1640,7 @@
           },
           {
             "name": "libffi",
-            "version": "3.5.2"
+            "version": "3.6.0"
           },
           {
             "name": "mpdecimal",
@@ -1693,7 +1693,7 @@
     "314-pkg-latest": {
       "app_version": "3.14.6",
       "arch": "amd64",
-      "generated": "2026-06-26T22:00:50Z",
+      "generated": "2026-06-27T01:17:34Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -1835,7 +1835,7 @@
           },
           {
             "name": "libffi",
-            "version": "3.5.2"
+            "version": "3.6.0"
           },
           {
             "name": "liblz4",
@@ -1896,7 +1896,7 @@
     "314t-pkg-latest": {
       "app_version": "3.14.6",
       "arch": "amd64",
-      "generated": "2026-06-26T22:00:49Z",
+      "generated": "2026-06-27T01:16:45Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -2038,7 +2038,7 @@
           },
           {
             "name": "libffi",
-            "version": "3.5.2"
+            "version": "3.6.0"
           },
           {
             "name": "liblz4",
@@ -2099,7 +2099,7 @@
     "315-pkg-latest": {
       "app_version": "3.15.0.b2",
       "arch": "amd64",
-      "generated": "2026-06-26T22:01:28Z",
+      "generated": "2026-06-27T01:17:33Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -2241,7 +2241,7 @@
           },
           {
             "name": "libffi",
-            "version": "3.5.2"
+            "version": "3.6.0"
           },
           {
             "name": "liblz4",
