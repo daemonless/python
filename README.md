@@ -17,18 +17,17 @@ Python is an interpreted object-oriented programming language, and is often comp
 | **Website** | [https://www.python.org/](https://www.python.org/) |
 
 ## Version Tags
-
 | Tag | Description | Best For |
 | :--- | :--- | :--- |
-| `3-pkg-latest` | **FreeBSD Latest**. Rolling package updates. | Newest FreeBSD packages. |
-| `2-pkg-latest` | **FreeBSD Latest**. Rolling package updates. | Newest FreeBSD packages. |
+| `3` / `3-pkg-latest` | **FreeBSD Latest**. Rolling package updates. | Newest FreeBSD packages. |
+| `2` / `2-pkg-latest` | **FreeBSD Latest**. Rolling package updates. | Newest FreeBSD packages. |
 | `27-pkg-latest` | **FreeBSD Latest**. Rolling package updates. | Newest FreeBSD packages. |
 | `310-pkg-latest` | **FreeBSD Latest**. Rolling package updates. | Newest FreeBSD packages. |
 | `311-pkg-latest` | **FreeBSD Latest**. Rolling package updates. | Newest FreeBSD packages. |
-| `312-pkg-latest` | **FreeBSD Latest**. Rolling package updates. | Newest FreeBSD packages. |
+| `312-pkg-latest` / `pkg` / `pkg-latest` | **FreeBSD Latest**. Rolling package updates. | Newest FreeBSD packages. |
 | `313-pkg-latest` | **FreeBSD Latest**. Rolling package updates. | Newest FreeBSD packages. |
 | `313t-pkg-latest` | **FreeBSD Latest**. Rolling package updates. | Newest FreeBSD packages. |
-| `314-pkg-latest` | **FreeBSD Latest**. Rolling package updates. | Newest FreeBSD packages. |
+| `314-pkg-latest` / `latest` | **FreeBSD Latest**. Rolling package updates. | Newest FreeBSD packages. |
 | `314t-pkg-latest` | **FreeBSD Latest**. Rolling package updates. | Newest FreeBSD packages. |
 | `315-pkg-latest` | **FreeBSD Latest**. Rolling package updates. | Newest FreeBSD packages. |
 

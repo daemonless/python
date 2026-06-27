@@ -6,11 +6,13 @@ build:
       args:
         BASE_VERSION: "15-pkg-latest"
         PYTHON_VERSION: "3"
+      aliases: ["3"]
     - tag: 2-pkg-latest
       containerfile: Containerfile
       args:
         BASE_VERSION: "15-pkg-latest"
         PYTHON_VERSION: "2"
+      aliases: ["2"]
     - tag: 27-pkg-latest
       containerfile: Containerfile
       args:
@@ -31,6 +33,7 @@ build:
       args:
         BASE_VERSION: "15-pkg-latest"
         PYTHON_VERSION: "312"
+      aliases: ["pkg", "pkg-latest"]
     - tag: 313-pkg-latest
       containerfile: Containerfile
       args:
@@ -46,6 +49,7 @@ build:
       args:
         BASE_VERSION: "15-pkg-latest"
         PYTHON_VERSION: "314"
+      aliases: ["latest"]
     - tag: 314t-pkg-latest
       containerfile: Containerfile
       args:
