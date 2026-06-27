@@ -4,10 +4,10 @@
 # Source: Containerfile.j2
 # --------------------------------------------------------------------------
 
-ARG BASE_VERSION=15
+ARG BASE_VERSION=15.1-pkg-latest
 FROM ghcr.io/daemonless/base-core:${BASE_VERSION}
 
-ARG PYTHON_VERSION
+ARG PKG_NAME
 ARG FREEBSD_ARCH=amd64
 
 LABEL org.opencontainers.image.title="Python" \
@@ -22,8 +22,8 @@ LABEL org.opencontainers.image.title="Python" \
 
 # Install dependencies
 RUN pkg update && \
-    pkg install -y python${PYTHON_VERSION} && \
+    pkg install -y ${PKG_NAME} && \
     mkdir -p /app && \
-    pkg query %v python${PYTHON_VERSION} > /app/version && \
+    pkg query %v ${PKG_NAME} > /app/version && \
     pkg clean -ay && \
     rm -rf /var/cache/pkg/* /var/db/pkg/repos/*
