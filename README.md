@@ -33,7 +33,7 @@ Python is an interpreted object-oriented programming language, and is often comp
 
 **Architectures:** amd64
 **User:** `root` (UID/GID via PUID/PGID, defaults to 1000:1000)
-**Base:** FreeBSD 15
+**Base:** FreeBSD 15.1-pkg-latest
 
 ---
 

@@ -4,59 +4,58 @@ build:
       pkg_name: python3
       containerfile: Containerfile
       args:
-        BASE_VERSION: "15-pkg-latest"
-        PYTHON_VERSION: "3"
+        BASE_VERSION: "15.1-pkg-latest"
       aliases: ["3"]
     - tag: 2-pkg-latest
+      pkg_name: python2
       containerfile: Containerfile
       args:
-        BASE_VERSION: "15-pkg-latest"
-        PYTHON_VERSION: "2"
+        BASE_VERSION: "15.1-pkg-latest"
       aliases: ["2"]
     - tag: 27-pkg-latest
+      pkg_name: python27
       containerfile: Containerfile
       args:
-        BASE_VERSION: "15-pkg-latest"
-        PYTHON_VERSION: "27"
+        BASE_VERSION: "15.1-pkg-latest"
     - tag: 310-pkg-latest
+      pkg_name: python310
       containerfile: Containerfile
       args:
-        BASE_VERSION: "15-pkg-latest"
-        PYTHON_VERSION: "310"
+        BASE_VERSION: "15.1-pkg-latest"
     - tag: 311-pkg-latest
+      pkg_name: python311
       containerfile: Containerfile
       args:
-        BASE_VERSION: "15-pkg-latest"
-        PYTHON_VERSION: "311"
+        BASE_VERSION: "15.1-pkg-latest"
     - tag: 312-pkg-latest
+      pkg_name: python312
       containerfile: Containerfile
       args:
-        BASE_VERSION: "15-pkg-latest"
-        PYTHON_VERSION: "312"
+        BASE_VERSION: "15.1-pkg-latest"
       aliases: ["pkg", "pkg-latest"]
     - tag: 313-pkg-latest
+      pkg_name: python313
       containerfile: Containerfile
       args:
-        BASE_VERSION: "15-pkg-latest"
-        PYTHON_VERSION: "313"
+        BASE_VERSION: "15.1-pkg-latest"
     - tag: 313t-pkg-latest
+      pkg_name: python313t
       containerfile: Containerfile
       args:
-        BASE_VERSION: "15-pkg-latest"
-        PYTHON_VERSION: "313t"
+        BASE_VERSION: "15.1-pkg-latest"
     - tag: 314-pkg-latest
+      pkg_name: python314
       containerfile: Containerfile
       args:
-        BASE_VERSION: "15-pkg-latest"
-        PYTHON_VERSION: "314"
+        BASE_VERSION: "15.1-pkg-latest"
       aliases: ["latest"]
     - tag: 314t-pkg-latest
+      pkg_name: python314t
       containerfile: Containerfile
       args:
-        BASE_VERSION: "15-pkg-latest"
-        PYTHON_VERSION: "314t"
+        BASE_VERSION: "15.1-pkg-latest"
     - tag: 315-pkg-latest
+      pkg_name: python315
       containerfile: Containerfile
       args:
-        BASE_VERSION: '15-pkg-latest'
-        PYTHON_VERSION: '315'
+        BASE_VERSION: "15.1-pkg-latest"
