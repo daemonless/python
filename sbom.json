@@ -1,11 +1,11 @@
 {
-  "generated": "2026-08-29T22:02:41Z",
+  "generated": "2026-09-06T21:26:01Z",
   "image": "python",
   "tags": {
     "2-pkg-latest": {
       "app_version": "2_3",
       "arch": "amd64",
-      "generated": "2026-08-29T21:59:40Z",
+      "generated": "2026-09-06T21:24:25Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -451,7 +451,7 @@
     "27-pkg-latest": {
       "app_version": "2.7.18_5",
       "arch": "amd64",
-      "generated": "2026-08-29T22:00:10Z",
+      "generated": "2026-09-06T21:24:00Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -893,7 +893,7 @@
     "3-pkg-latest": {
       "app_version": "3_4",
       "arch": "amd64",
-      "generated": "2026-08-29T21:59:58Z",
+      "generated": "2026-09-06T21:21:29Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -1235,7 +1235,7 @@
     "310-pkg-latest": {
       "app_version": "3.10.21",
       "arch": "amd64",
-      "generated": "2026-08-29T22:00:01Z",
+      "generated": "2026-09-06T21:23:17Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -1573,7 +1573,7 @@
     "311-pkg-latest": {
       "app_version": "3.11.16",
       "arch": "amd64",
-      "generated": "2026-08-29T21:59:26Z",
+      "generated": "2026-09-06T21:21:06Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -1911,7 +1911,7 @@
     "312-pkg-latest": {
       "app_version": "3.12.14",
       "arch": "amd64",
-      "generated": "2026-08-29T22:00:07Z",
+      "generated": "2026-09-06T21:21:18Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -2249,7 +2249,7 @@
     "313-pkg-latest": {
       "app_version": "3.13.15",
       "arch": "amd64",
-      "generated": "2026-08-29T21:59:29Z",
+      "generated": "2026-09-06T21:21:00Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -2587,7 +2587,7 @@
     "313t-pkg-latest": {
       "app_version": "3.13.15",
       "arch": "amd64",
-      "generated": "2026-08-29T22:02:05Z",
+      "generated": "2026-09-06T21:25:03Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -2925,7 +2925,7 @@
     "314-pkg-latest": {
       "app_version": "3.14.7",
       "arch": "amd64",
-      "generated": "2026-08-29T22:00:40Z",
+      "generated": "2026-09-06T21:24:42Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -3279,7 +3279,7 @@
     "314t-pkg-latest": {
       "app_version": "3.14.7",
       "arch": "amd64",
-      "generated": "2026-08-29T21:59:27Z",
+      "generated": "2026-09-06T21:21:00Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -3631,9 +3631,9 @@
       }
     },
     "315-pkg-latest": {
-      "app_version": "3.15.0.r1",
+      "app_version": "3.15.0.r2",
       "arch": "amd64",
-      "generated": "2026-08-29T21:59:32Z",
+      "generated": "2026-09-06T21:23:06Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -3938,7 +3938,7 @@
               "PSFL"
             ],
             "name": "python315",
-            "version": "3.15.0.r1"
+            "version": "3.15.0.r2"
           },
           {
             "licenses": [
