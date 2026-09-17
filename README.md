@@ -7,6 +7,7 @@ Source: dbuild templates
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/daemonless/python/build.yaml?style=flat-square&label=Build&color=green)](https://github.com/daemonless/python/actions)
 [![Last Commit](https://img.shields.io/github/last-commit/daemonless/python?style=flat-square&label=Last+Commit&color=blue)](https://github.com/daemonless/python/commits)
+[![OCI Pulls](https://img.shields.io/docker/pulls/daemonless/python?style=flat-square&label=OCI+Pulls&color=blue)](https://hub.docker.com/r/daemonless/python)
 
 Python is an interpreted object-oriented programming language, and is often compared to Tcl, Perl or Scheme.
 
