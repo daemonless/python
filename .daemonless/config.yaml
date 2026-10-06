@@ -17,11 +17,6 @@ build:
       containerfile: Containerfile
       args:
         BASE_VERSION: "15.1-pkg-latest"
-    - tag: 310-pkg-latest
-      pkg_name: python310
-      containerfile: Containerfile
-      args:
-        BASE_VERSION: "15.1-pkg-latest"
     - tag: 311-pkg-latest
       pkg_name: python311
       containerfile: Containerfile
