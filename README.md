@@ -23,7 +23,6 @@ Python is an interpreted object-oriented programming language, and is often comp
 | `3` / `3-pkg-latest` | **FreeBSD Latest**. Rolling package updates. | Staying current. |
 | `2` / `2-pkg-latest` | **FreeBSD Latest**. Rolling package updates. | Staying current. |
 | `27-pkg-latest` | **FreeBSD Latest**. Rolling package updates. | Staying current. |
-| `310-pkg-latest` | **FreeBSD Latest**. Rolling package updates. | Staying current. |
 | `311-pkg-latest` | **FreeBSD Latest**. Rolling package updates. | Staying current. |
 | `312-pkg-latest` / `pkg` / `pkg-latest` | **FreeBSD Latest**. Rolling package updates. | Staying current. |
 | `313-pkg-latest` | **FreeBSD Latest**. Rolling package updates. | Staying current. |
