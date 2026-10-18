@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-11T15:30:29Z",
+  "generated": "2026-10-18T07:31:26Z",
   "image": "python",
   "tags": {
     "2-pkg-latest": {
       "app_version": "2_3",
       "arch": "amd64",
-      "generated": "2026-10-11T15:29:50Z",
+      "generated": "2026-10-18T07:28:13Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -266,14 +266,14 @@
               "MIT"
             ],
             "name": "expat",
-            "version": "2.8.5"
+            "version": "2.9.0"
           },
           {
             "licenses": [
               "MIT"
             ],
             "name": "fontconfig",
-            "version": "2.17.1,1"
+            "version": "2.18.3,1"
           },
           {
             "licenses": [
@@ -387,7 +387,7 @@
               "Libpng"
             ],
             "name": "png",
-            "version": "1.6.58"
+            "version": "1.6.59_1"
           },
           {
             "name": "python2",
@@ -426,7 +426,7 @@
               "MIT"
             ],
             "name": "xorgproto",
-            "version": "2025.1"
+            "version": "2026.1"
           }
         ],
         "go": [],
@@ -465,7 +465,7 @@
     "27-pkg-latest": {
       "app_version": "2.7.18_5",
       "arch": "amd64",
-      "generated": "2026-10-11T15:26:31Z",
+      "generated": "2026-10-18T07:25:12Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -726,14 +726,14 @@
               "MIT"
             ],
             "name": "expat",
-            "version": "2.8.5"
+            "version": "2.9.0"
           },
           {
             "licenses": [
               "MIT"
             ],
             "name": "fontconfig",
-            "version": "2.17.1,1"
+            "version": "2.18.3,1"
           },
           {
             "licenses": [
@@ -847,7 +847,7 @@
               "Libpng"
             ],
             "name": "png",
-            "version": "1.6.58"
+            "version": "1.6.59_1"
           },
           {
             "licenses": [
@@ -882,7 +882,7 @@
               "MIT"
             ],
             "name": "xorgproto",
-            "version": "2025.1"
+            "version": "2026.1"
           }
         ],
         "go": [],
@@ -921,7 +921,7 @@
     "3-pkg-latest": {
       "app_version": "3_4",
       "arch": "amd64",
-      "generated": "2026-10-11T15:29:11Z",
+      "generated": "2026-10-18T07:30:53Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -1175,7 +1175,7 @@
               "MIT"
             ],
             "name": "expat",
-            "version": "2.8.5"
+            "version": "2.9.0"
           },
           {
             "licenses": [
@@ -1236,7 +1236,7 @@
               "PSFL"
             ],
             "name": "python312",
-            "version": "3.12.14_1"
+            "version": "3.12.15"
           },
           {
             "licenses": [
@@ -1275,9 +1275,9 @@
       }
     },
     "311-pkg-latest": {
-      "app_version": "3.11.16",
+      "app_version": "3.11.17",
       "arch": "amd64",
-      "generated": "2026-10-11T15:28:36Z",
+      "generated": "2026-10-18T07:21:54Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -1531,7 +1531,7 @@
               "MIT"
             ],
             "name": "expat",
-            "version": "2.8.5"
+            "version": "2.9.0"
           },
           {
             "licenses": [
@@ -1588,7 +1588,7 @@
               "PSFL"
             ],
             "name": "python311",
-            "version": "3.11.16"
+            "version": "3.11.17"
           },
           {
             "licenses": [
@@ -1627,9 +1627,9 @@
       }
     },
     "312-pkg-latest": {
-      "app_version": "3.12.14_1",
+      "app_version": "3.12.15",
       "arch": "amd64",
-      "generated": "2026-10-11T15:29:00Z",
+      "generated": "2026-10-18T07:25:53Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -1883,7 +1883,7 @@
               "MIT"
             ],
             "name": "expat",
-            "version": "2.8.5"
+            "version": "2.9.0"
           },
           {
             "licenses": [
@@ -1940,7 +1940,7 @@
               "PSFL"
             ],
             "name": "python312",
-            "version": "3.12.14_1"
+            "version": "3.12.15"
           },
           {
             "licenses": [
@@ -1979,9 +1979,9 @@
       }
     },
     "313-pkg-latest": {
-      "app_version": "3.13.15",
+      "app_version": "3.13.16",
       "arch": "amd64",
-      "generated": "2026-10-11T15:25:54Z",
+      "generated": "2026-10-18T07:26:31Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -2235,7 +2235,7 @@
               "MIT"
             ],
             "name": "expat",
-            "version": "2.8.5"
+            "version": "2.9.0"
           },
           {
             "licenses": [
@@ -2292,7 +2292,7 @@
               "PSFL"
             ],
             "name": "python313",
-            "version": "3.13.15"
+            "version": "3.13.16"
           },
           {
             "licenses": [
@@ -2331,9 +2331,9 @@
       }
     },
     "313t-pkg-latest": {
-      "app_version": "3.13.15",
+      "app_version": "3.13.16",
       "arch": "amd64",
-      "generated": "2026-10-11T15:28:52Z",
+      "generated": "2026-10-18T07:24:53Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -2587,7 +2587,7 @@
               "MIT"
             ],
             "name": "expat",
-            "version": "2.8.5"
+            "version": "2.9.0"
           },
           {
             "licenses": [
@@ -2644,7 +2644,7 @@
               "PSFL"
             ],
             "name": "python313t",
-            "version": "3.13.15"
+            "version": "3.13.16"
           },
           {
             "licenses": [
@@ -2683,9 +2683,9 @@
       }
     },
     "314-pkg-latest": {
-      "app_version": "3.14.7",
+      "app_version": "3.14.8",
       "arch": "amd64",
-      "generated": "2026-10-11T15:29:15Z",
+      "generated": "2026-10-18T07:26:13Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -2939,7 +2939,7 @@
               "MIT"
             ],
             "name": "expat",
-            "version": "2.8.5"
+            "version": "2.9.0"
           },
           {
             "licenses": [
@@ -3004,7 +3004,7 @@
               "PSFL"
             ],
             "name": "python314",
-            "version": "3.14.7"
+            "version": "3.14.8"
           },
           {
             "licenses": [
@@ -3051,9 +3051,9 @@
       }
     },
     "314t-pkg-latest": {
-      "app_version": "3.14.7",
+      "app_version": "3.14.8",
       "arch": "amd64",
-      "generated": "2026-10-11T15:29:06Z",
+      "generated": "2026-10-18T07:27:44Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -3307,7 +3307,7 @@
               "MIT"
             ],
             "name": "expat",
-            "version": "2.8.5"
+            "version": "2.9.0"
           },
           {
             "licenses": [
@@ -3372,7 +3372,7 @@
               "PSFL"
             ],
             "name": "python314t",
-            "version": "3.14.7"
+            "version": "3.14.8"
           },
           {
             "licenses": [
@@ -3419,9 +3419,9 @@
       }
     },
     "315-pkg-latest": {
-      "app_version": "3.15.0.r3",
+      "app_version": "3.15.0",
       "arch": "amd64",
-      "generated": "2026-10-11T15:29:07Z",
+      "generated": "2026-10-18T07:29:45Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -3675,7 +3675,7 @@
               "MIT"
             ],
             "name": "expat",
-            "version": "2.8.5"
+            "version": "2.9.0"
           },
           {
             "licenses": [
@@ -3740,7 +3740,7 @@
               "PSFL"
             ],
             "name": "python315",
-            "version": "3.15.0.r3"
+            "version": "3.15.0"
           },
           {
             "licenses": [
